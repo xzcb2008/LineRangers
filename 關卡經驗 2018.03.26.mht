@@ -1,0 +1,3178 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/5F1A3E76/file5446.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="big5"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 14">
+<link rel=3DFile-List href=3D"file5446.files/filelist.xml">
+<style id=3D"關卡經驗 2018.03.26_6603_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font56603
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:新細明體, serif;
+	mso-font-charset:136;}
+.xl156603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:新細明體, serif;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl646603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl656603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl666603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:"\#\,\#\#0";
+	text-align:general;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl676603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:"\#\,\#\#0_ ";
+	text-align:general;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl686603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl696603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl706603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:"\#\,\#\#0";
+	text-align:general;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl716603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:"\#\,\#\#0_ ";
+	text-align:general;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl726603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#002060;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl736603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl746603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl756603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#0F243E;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:新細明體, serif;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl766603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#0F243E;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:新細明體, serif;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl776603
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"華康竹風體W4\(P\)", cursive;
+	mso-font-charset:136;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:nowrap;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:新細明體, serif;
+	mso-font-charset:136;
+	mso-char-type:none;}
+-->
+</style>
+<title>Line&nbsp;Rangers&nbsp;Powered&nbsp;By&nbsp;xzcb2008</title>
+</head>
+
+<body>
+<!--[if !excel]>　　<![endif]-->
+<!--下列資訊是由 Microsoft Excel 網頁發佈精靈所產生。-->
+<!--如果由 Excel 重新發佈相同的項目時，在 DIV 標籤間的所有資訊將會被取代。-=
+->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"關卡經驗 2018.03.26_6603" align=3Dcenter x:publishsource=3D"Exce=
+l">
+
+<h1 style=3D'color:black;font-family:新細明體;font-size:14.0pt;font-weight:=
+800;
+font-style:normal'>Line&nbsp;Rangers&nbsp;Powered&nbsp;By&nbsp;xzcb2008</h1>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1165 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:876pt'>
+ <col width=3D178 style=3D'mso-width-source:userset;mso-width-alt:5696;widt=
+h:134pt'>
+ <col width=3D78 span=3D2 style=3D'mso-width-source:userset;mso-width-alt:2=
+496;
+ width:59pt'>
+ <col width=3D88 style=3D'mso-width-source:userset;mso-width-alt:2816;width=
+:66pt'>
+ <col width=3D89 style=3D'mso-width-source:userset;mso-width-alt:2848;width=
+:67pt'>
+ <col width=3D84 style=3D'mso-width-source:userset;mso-width-alt:2688;width=
+:63pt'>
+ <col width=3D124 style=3D'mso-width-source:userset;mso-width-alt:3968;widt=
+h:93pt'>
+ <col width=3D119 style=3D'mso-width-source:userset;mso-width-alt:3808;widt=
+h:89pt'>
+ <col width=3D109 style=3D'mso-width-source:userset;mso-width-alt:3488;widt=
+h:82pt'>
+ <col width=3D125 style=3D'mso-width-source:userset;mso-width-alt:4000;widt=
+h:94pt'>
+ <col width=3D93 style=3D'mso-width-source:userset;mso-width-alt:2976;width=
+:70pt'>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl736603 width=3D178 style=3D'height:30.0pt;width=
+:134pt'>關卡</td>
+  <td class=3Dxl736603 width=3D78 style=3D'width:59pt'>消耗羽毛</td>
+  <td class=3Dxl736603 width=3D78 style=3D'width:59pt'>關卡長度</td>
+  <td class=3Dxl746603 width=3D88 style=3D'width:66pt'>玩家經驗值<br>
+    (絕對)</td>
+  <td class=3Dxl746603 width=3D89 style=3D'width:67pt'>寵物經驗值<br>
+    (絕對)</td>
+  <td class=3Dxl746603 width=3D84 style=3D'width:63pt'>關卡金幣<br>
+    (絕對)</td>
+  <td class=3Dxl746603 width=3D124 style=3D'width:93pt'>單位玩家經驗值<br>
+    (經驗/毛)</td>
+  <td class=3Dxl746603 width=3D119 style=3D'width:89pt'>單位寵物經驗值<br>
+    (經驗/毛)</td>
+  <td class=3Dxl746603 width=3D109 style=3D'width:82pt'>單位關卡金幣<br>
+    (金幣/毛)</td>
+  <td class=3Dxl746603 width=3D125 style=3D'width:94pt'>玩家經驗及金幣<br>
+    (權值)</td>
+  <td class=3Dxl746603 width=3D93 style=3D'width:70pt'>關卡長度</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 432</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,150<=
+/td>
+  <td class=3Dxl676603 align=3Dright>754,400 </td>
+  <td class=3Dxl676603 align=3Dright>310,000 </td>
+  <td class=3Dxl676603 align=3Dright>21,240 </td>
+  <td class=3Dxl676603 align=3Dright>94,300 </td>
+  <td class=3Dxl676603 align=3Dright>38,750 </td>
+  <td class=3Dxl676603 align=3Dright>2,655 </td>
+  <td class=3Dxl676603 align=3Dright>96,955 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 431</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,500<=
+/td>
+  <td class=3Dxl676603 align=3Dright>753,600 </td>
+  <td class=3Dxl676603 align=3Dright>309,600 </td>
+  <td class=3Dxl676603 align=3Dright>21,200 </td>
+  <td class=3Dxl676603 align=3Dright>94,200 </td>
+  <td class=3Dxl676603 align=3Dright>38,700 </td>
+  <td class=3Dxl676603 align=3Dright>2,650 </td>
+  <td class=3Dxl676603 align=3Dright>96,850 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 430</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,050<=
+/td>
+  <td class=3Dxl676603 align=3Dright>752,800 </td>
+  <td class=3Dxl676603 align=3Dright>309,200 </td>
+  <td class=3Dxl676603 align=3Dright>21,160 </td>
+  <td class=3Dxl676603 align=3Dright>94,100 </td>
+  <td class=3Dxl676603 align=3Dright>38,650 </td>
+  <td class=3Dxl676603 align=3Dright>2,645 </td>
+  <td class=3Dxl676603 align=3Dright>96,745 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 429</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,400<=
+/td>
+  <td class=3Dxl676603 align=3Dright>752,000 </td>
+  <td class=3Dxl676603 align=3Dright>308,800 </td>
+  <td class=3Dxl676603 align=3Dright>21,120 </td>
+  <td class=3Dxl676603 align=3Dright>94,000 </td>
+  <td class=3Dxl676603 align=3Dright>38,600 </td>
+  <td class=3Dxl676603 align=3Dright>2,640 </td>
+  <td class=3Dxl676603 align=3Dright>96,640 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>基地核心區 428</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>950</t=
+d>
+  <td class=3Dxl676603 align=3Dright>751,200 </td>
+  <td class=3Dxl676603 align=3Dright>308,400 </td>
+  <td class=3Dxl676603 align=3Dright>21,080 </td>
+  <td class=3Dxl676603 align=3Dright>93,900 </td>
+  <td class=3Dxl676603 align=3Dright>38,550 </td>
+  <td class=3Dxl676603 align=3Dright>2,635 </td>
+  <td class=3Dxl676603 align=3Dright>96,535 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 427</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,000<=
+/td>
+  <td class=3Dxl676603 align=3Dright>750,400 </td>
+  <td class=3Dxl676603 align=3Dright>308,000 </td>
+  <td class=3Dxl676603 align=3Dright>21,040 </td>
+  <td class=3Dxl676603 align=3Dright>93,800 </td>
+  <td class=3Dxl676603 align=3Dright>38,500 </td>
+  <td class=3Dxl676603 align=3Dright>2,630 </td>
+  <td class=3Dxl676603 align=3Dright>96,430 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 426</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,350<=
+/td>
+  <td class=3Dxl676603 align=3Dright>749,600 </td>
+  <td class=3Dxl676603 align=3Dright>307,600 </td>
+  <td class=3Dxl676603 align=3Dright>21,000 </td>
+  <td class=3Dxl676603 align=3Dright>93,700 </td>
+  <td class=3Dxl676603 align=3Dright>38,450 </td>
+  <td class=3Dxl676603 align=3Dright>2,625 </td>
+  <td class=3Dxl676603 align=3Dright>96,325 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 425</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,100<=
+/td>
+  <td class=3Dxl676603 align=3Dright>748,800 </td>
+  <td class=3Dxl676603 align=3Dright>307,200 </td>
+  <td class=3Dxl676603 align=3Dright>20,960 </td>
+  <td class=3Dxl676603 align=3Dright>93,600 </td>
+  <td class=3Dxl676603 align=3Dright>38,400 </td>
+  <td class=3Dxl676603 align=3Dright>2,620 </td>
+  <td class=3Dxl676603 align=3Dright>96,220 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 424</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,000<=
+/td>
+  <td class=3Dxl676603 align=3Dright>748,000 </td>
+  <td class=3Dxl676603 align=3Dright>306,800 </td>
+  <td class=3Dxl676603 align=3Dright>20,920 </td>
+  <td class=3Dxl676603 align=3Dright>93,500 </td>
+  <td class=3Dxl676603 align=3Dright>38,350 </td>
+  <td class=3Dxl676603 align=3Dright>2,615 </td>
+  <td class=3Dxl676603 align=3Dright>96,115 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 423</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,100<=
+/td>
+  <td class=3Dxl676603 align=3Dright>747,200 </td>
+  <td class=3Dxl676603 align=3Dright>306,400 </td>
+  <td class=3Dxl676603 align=3Dright>20,880 </td>
+  <td class=3Dxl676603 align=3Dright>93,400 </td>
+  <td class=3Dxl676603 align=3Dright>38,300 </td>
+  <td class=3Dxl676603 align=3Dright>2,610 </td>
+  <td class=3Dxl676603 align=3Dright>96,010 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 422</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,300<=
+/td>
+  <td class=3Dxl676603 align=3Dright>746,400 </td>
+  <td class=3Dxl676603 align=3Dright>306,000 </td>
+  <td class=3Dxl676603 align=3Dright>20,840 </td>
+  <td class=3Dxl676603 align=3Dright>93,300 </td>
+  <td class=3Dxl676603 align=3Dright>38,250 </td>
+  <td class=3Dxl676603 align=3Dright>2,605 </td>
+  <td class=3Dxl676603 align=3Dright>95,905 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>基地核心區 421</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,450<=
+/td>
+  <td class=3Dxl676603 align=3Dright>745,600 </td>
+  <td class=3Dxl676603 align=3Dright>305,600 </td>
+  <td class=3Dxl676603 align=3Dright>20,800 </td>
+  <td class=3Dxl676603 align=3Dright>93,200 </td>
+  <td class=3Dxl676603 align=3Dright>38,200 </td>
+  <td class=3Dxl676603 align=3Dright>2,600 </td>
+  <td class=3Dxl676603 align=3Dright>95,800 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 420=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,578<=
+/td>
+  <td class=3Dxl676603 align=3Dright>744,800 </td>
+  <td class=3Dxl676603 align=3Dright>305,520 </td>
+  <td class=3Dxl676603 align=3Dright>20,760 </td>
+  <td class=3Dxl676603 align=3Dright>93,100 </td>
+  <td class=3Dxl676603 align=3Dright>38,190 </td>
+  <td class=3Dxl676603 align=3Dright>2,595 </td>
+  <td class=3Dxl676603 align=3Dright>95,695 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 419=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,231<=
+/td>
+  <td class=3Dxl676603 align=3Dright>743,200 </td>
+  <td class=3Dxl676603 align=3Dright>304,920 </td>
+  <td class=3Dxl676603 align=3Dright>20,720 </td>
+  <td class=3Dxl676603 align=3Dright>92,900 </td>
+  <td class=3Dxl676603 align=3Dright>38,115 </td>
+  <td class=3Dxl676603 align=3Dright>2,590 </td>
+  <td class=3Dxl676603 align=3Dright>95,490 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 418=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,861<=
+/td>
+  <td class=3Dxl676603 align=3Dright>741,600 </td>
+  <td class=3Dxl676603 align=3Dright>304,320 </td>
+  <td class=3Dxl676603 align=3Dright>20,680 </td>
+  <td class=3Dxl676603 align=3Dright>92,700 </td>
+  <td class=3Dxl676603 align=3Dright>38,040 </td>
+  <td class=3Dxl676603 align=3Dright>2,585 </td>
+  <td class=3Dxl676603 align=3Dright>95,285 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 417=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,231<=
+/td>
+  <td class=3Dxl676603 align=3Dright>740,000 </td>
+  <td class=3Dxl676603 align=3Dright>303,720 </td>
+  <td class=3Dxl676603 align=3Dright>20,640 </td>
+  <td class=3Dxl676603 align=3Dright>92,500 </td>
+  <td class=3Dxl676603 align=3Dright>37,965 </td>
+  <td class=3Dxl676603 align=3Dright>2,580 </td>
+  <td class=3Dxl676603 align=3Dright>95,080 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 416=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,193<=
+/td>
+  <td class=3Dxl676603 align=3Dright>738,400 </td>
+  <td class=3Dxl676603 align=3Dright>303,120 </td>
+  <td class=3Dxl676603 align=3Dright>20,600 </td>
+  <td class=3Dxl676603 align=3Dright>92,300 </td>
+  <td class=3Dxl676603 align=3Dright>37,890 </td>
+  <td class=3Dxl676603 align=3Dright>2,575 </td>
+  <td class=3Dxl676603 align=3Dright>94,875 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 415=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,231<=
+/td>
+  <td class=3Dxl676603 align=3Dright>736,800 </td>
+  <td class=3Dxl676603 align=3Dright>302,520 </td>
+  <td class=3Dxl676603 align=3Dright>20,560 </td>
+  <td class=3Dxl676603 align=3Dright>92,100 </td>
+  <td class=3Dxl676603 align=3Dright>37,815 </td>
+  <td class=3Dxl676603 align=3Dright>2,570 </td>
+  <td class=3Dxl676603 align=3Dright>94,670 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 414=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,193<=
+/td>
+  <td class=3Dxl676603 align=3Dright>735,200 </td>
+  <td class=3Dxl676603 align=3Dright>301,920 </td>
+  <td class=3Dxl676603 align=3Dright>20,520 </td>
+  <td class=3Dxl676603 align=3Dright>91,900 </td>
+  <td class=3Dxl676603 align=3Dright>37,740 </td>
+  <td class=3Dxl676603 align=3Dright>2,565 </td>
+  <td class=3Dxl676603 align=3Dright>94,465 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 413=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,231<=
+/td>
+  <td class=3Dxl676603 align=3Dright>733,600 </td>
+  <td class=3Dxl676603 align=3Dright>301,320 </td>
+  <td class=3Dxl676603 align=3Dright>20,480 </td>
+  <td class=3Dxl676603 align=3Dright>91,700 </td>
+  <td class=3Dxl676603 align=3Dright>37,665 </td>
+  <td class=3Dxl676603 align=3Dright>2,560 </td>
+  <td class=3Dxl676603 align=3Dright>94,260 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 412=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,609<=
+/td>
+  <td class=3Dxl676603 align=3Dright>732,000 </td>
+  <td class=3Dxl676603 align=3Dright>300,720 </td>
+  <td class=3Dxl676603 align=3Dright>20,440 </td>
+  <td class=3Dxl676603 align=3Dright>91,500 </td>
+  <td class=3Dxl676603 align=3Dright>37,590 </td>
+  <td class=3Dxl676603 align=3Dright>2,555 </td>
+  <td class=3Dxl676603 align=3Dright>94,055 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 411=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,334<=
+/td>
+  <td class=3Dxl676603 align=3Dright>730,400 </td>
+  <td class=3Dxl676603 align=3Dright>300,120 </td>
+  <td class=3Dxl676603 align=3Dright>20,400 </td>
+  <td class=3Dxl676603 align=3Dright>91,300 </td>
+  <td class=3Dxl676603 align=3Dright>37,515 </td>
+  <td class=3Dxl676603 align=3Dright>2,550 </td>
+  <td class=3Dxl676603 align=3Dright>93,850 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 410=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,100<=
+/td>
+  <td class=3Dxl676603 align=3Dright>728,800 </td>
+  <td class=3Dxl676603 align=3Dright>299,520 </td>
+  <td class=3Dxl676603 align=3Dright>20,360 </td>
+  <td class=3Dxl676603 align=3Dright>91,100 </td>
+  <td class=3Dxl676603 align=3Dright>37,440 </td>
+  <td class=3Dxl676603 align=3Dright>2,545 </td>
+  <td class=3Dxl676603 align=3Dright>93,645 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>祕密研究基地 409=
+</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,334<=
+/td>
+  <td class=3Dxl676603 align=3Dright>727,200 </td>
+  <td class=3Dxl676603 align=3Dright>298,920 </td>
+  <td class=3Dxl676603 align=3Dright>20,320 </td>
+  <td class=3Dxl676603 align=3Dright>90,900 </td>
+  <td class=3Dxl676603 align=3Dright>37,365 </td>
+  <td class=3Dxl676603 align=3Dright>2,540 </td>
+  <td class=3Dxl676603 align=3Dright>93,440 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>荊棘荒地 408</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,578<=
+/td>
+  <td class=3Dxl676603 align=3Dright>725,600 </td>
+  <td class=3Dxl676603 align=3Dright>298,160 </td>
+  <td class=3Dxl676603 align=3Dright>20,280 </td>
+  <td class=3Dxl676603 align=3Dright>90,700 </td>
+  <td class=3Dxl676603 align=3Dright>37,270 </td>
+  <td class=3Dxl676603 align=3Dright>2,535 </td>
+  <td class=3Dxl676603 align=3Dright>93,235 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>荊棘荒地 407</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,231<=
+/td>
+  <td class=3Dxl676603 align=3Dright>724,000 </td>
+  <td class=3Dxl676603 align=3Dright>297,600 </td>
+  <td class=3Dxl676603 align=3Dright>20,240 </td>
+  <td class=3Dxl676603 align=3Dright>90,500 </td>
+  <td class=3Dxl676603 align=3Dright>37,200 </td>
+  <td class=3Dxl676603 align=3Dright>2,530 </td>
+  <td class=3Dxl676603 align=3Dright>93,030 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>荊棘荒地 406</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,861<=
+/td>
+  <td class=3Dxl676603 align=3Dright>722,400 </td>
+  <td class=3Dxl676603 align=3Dright>297,040 </td>
+  <td class=3Dxl676603 align=3Dright>20,200 </td>
+  <td class=3Dxl676603 align=3Dright>90,300 </td>
+  <td class=3Dxl676603 align=3Dright>37,130 </td>
+  <td class=3Dxl676603 align=3Dright>2,525 </td>
+  <td class=3Dxl676603 align=3Dright>92,825 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>荊棘荒地 405</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>934</t=
+d>
+  <td class=3Dxl676603 align=3Dright>720,800 </td>
+  <td class=3Dxl676603 align=3Dright>296,480 </td>
+  <td class=3Dxl676603 align=3Dright>20,160 </td>
+  <td class=3Dxl676603 align=3Dright>90,100 </td>
+  <td class=3Dxl676603 align=3Dright>37,060 </td>
+  <td class=3Dxl676603 align=3Dright>2,520 </td>
+  <td class=3Dxl676603 align=3Dright>92,620 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>荊棘荒地 404</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>895</t=
+d>
+  <td class=3Dxl676603 align=3Dright>719,200 </td>
+  <td class=3Dxl676603 align=3Dright>295,920 </td>
+  <td class=3Dxl676603 align=3Dright>20,120 </td>
+  <td class=3Dxl676603 align=3Dright>89,900 </td>
+  <td class=3Dxl676603 align=3Dright>36,990 </td>
+  <td class=3Dxl676603 align=3Dright>2,515 </td>
+  <td class=3Dxl676603 align=3Dright>92,415 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>荊棘荒地 403</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>767</t=
+d>
+  <td class=3Dxl676603 align=3Dright>717,600 </td>
+  <td class=3Dxl676603 align=3Dright>295,360 </td>
+  <td class=3Dxl676603 align=3Dright>20,080 </td>
+  <td class=3Dxl676603 align=3Dright>89,700 </td>
+  <td class=3Dxl676603 align=3Dright>36,920 </td>
+  <td class=3Dxl676603 align=3Dright>2,510 </td>
+  <td class=3Dxl676603 align=3Dright>92,210 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>荊棘荒地 402</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,193<=
+/td>
+  <td class=3Dxl676603 align=3Dright>716,000 </td>
+  <td class=3Dxl676603 align=3Dright>294,800 </td>
+  <td class=3Dxl676603 align=3Dright>20,040 </td>
+  <td class=3Dxl676603 align=3Dright>89,500 </td>
+  <td class=3Dxl676603 align=3Dright>36,850 </td>
+  <td class=3Dxl676603 align=3Dright>2,505 </td>
+  <td class=3Dxl676603 align=3Dright>92,005 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>荊棘荒地 401</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>934</t=
+d>
+  <td class=3Dxl676603 align=3Dright>714,400 </td>
+  <td class=3Dxl676603 align=3Dright>294,240 </td>
+  <td class=3Dxl676603 align=3Dright>20,000 </td>
+  <td class=3Dxl676603 align=3Dright>89,300 </td>
+  <td class=3Dxl676603 align=3Dright>36,780 </td>
+  <td class=3Dxl676603 align=3Dright>2,500 </td>
+  <td class=3Dxl676603 align=3Dright>91,800 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>荊棘荒地 400</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,609<=
+/td>
+  <td class=3Dxl676603 align=3Dright>712,800 </td>
+  <td class=3Dxl676603 align=3Dright>293,680 </td>
+  <td class=3Dxl676603 align=3Dright>19,960 </td>
+  <td class=3Dxl676603 align=3Dright>89,100 </td>
+  <td class=3Dxl676603 align=3Dright>36,710 </td>
+  <td class=3Dxl676603 align=3Dright>2,495 </td>
+  <td class=3Dxl676603 align=3Dright>91,595 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>荊棘荒地 399</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,334<=
+/td>
+  <td class=3Dxl676603 align=3Dright>711,200 </td>
+  <td class=3Dxl676603 align=3Dright>293,120 </td>
+  <td class=3Dxl676603 align=3Dright>19,920 </td>
+  <td class=3Dxl676603 align=3Dright>88,900 </td>
+  <td class=3Dxl676603 align=3Dright>36,640 </td>
+  <td class=3Dxl676603 align=3Dright>2,490 </td>
+  <td class=3Dxl676603 align=3Dright>91,390 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>荊棘荒地 398</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,768<=
+/td>
+  <td class=3Dxl676603 align=3Dright>709,600 </td>
+  <td class=3Dxl676603 align=3Dright>292,560 </td>
+  <td class=3Dxl676603 align=3Dright>19,880 </td>
+  <td class=3Dxl676603 align=3Dright>88,700 </td>
+  <td class=3Dxl676603 align=3Dright>36,570 </td>
+  <td class=3Dxl676603 align=3Dright>2,485 </td>
+  <td class=3Dxl676603 align=3Dright>91,185 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>荊棘荒地 397</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>871</t=
+d>
+  <td class=3Dxl676603 align=3Dright>708,000 </td>
+  <td class=3Dxl676603 align=3Dright>292,000 </td>
+  <td class=3Dxl676603 align=3Dright>19,840 </td>
+  <td class=3Dxl676603 align=3Dright>88,500 </td>
+  <td class=3Dxl676603 align=3Dright>36,500 </td>
+  <td class=3Dxl676603 align=3Dright>2,480 </td>
+  <td class=3Dxl676603 align=3Dright>90,980 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 396</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,829<=
+/td>
+  <td class=3Dxl676603 align=3Dright>704,000 </td>
+  <td class=3Dxl676603 align=3Dright>290,160 </td>
+  <td class=3Dxl676603 align=3Dright>19,800 </td>
+  <td class=3Dxl676603 align=3Dright>88,000 </td>
+  <td class=3Dxl676603 align=3Dright>36,270 </td>
+  <td class=3Dxl676603 align=3Dright>2,475 </td>
+  <td class=3Dxl676603 align=3Dright>90,475 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 395</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,622<=
+/td>
+  <td class=3Dxl676603 align=3Dright>702,400 </td>
+  <td class=3Dxl676603 align=3Dright>289,600 </td>
+  <td class=3Dxl676603 align=3Dright>19,760 </td>
+  <td class=3Dxl676603 align=3Dright>87,800 </td>
+  <td class=3Dxl676603 align=3Dright>36,200 </td>
+  <td class=3Dxl676603 align=3Dright>2,470 </td>
+  <td class=3Dxl676603 align=3Dright>90,270 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 394</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,231<=
+/td>
+  <td class=3Dxl676603 align=3Dright>700,800 </td>
+  <td class=3Dxl676603 align=3Dright>289,040 </td>
+  <td class=3Dxl676603 align=3Dright>19,720 </td>
+  <td class=3Dxl676603 align=3Dright>87,600 </td>
+  <td class=3Dxl676603 align=3Dright>36,130 </td>
+  <td class=3Dxl676603 align=3Dright>2,465 </td>
+  <td class=3Dxl676603 align=3Dright>90,065 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 393</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,973<=
+/td>
+  <td class=3Dxl676603 align=3Dright>699,200 </td>
+  <td class=3Dxl676603 align=3Dright>288,480 </td>
+  <td class=3Dxl676603 align=3Dright>19,680 </td>
+  <td class=3Dxl676603 align=3Dright>87,400 </td>
+  <td class=3Dxl676603 align=3Dright>36,060 </td>
+  <td class=3Dxl676603 align=3Dright>2,460 </td>
+  <td class=3Dxl676603 align=3Dright>89,860 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>迷霧綠森林 392</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>930</t=
+d>
+  <td class=3Dxl676603 align=3Dright>697,600 </td>
+  <td class=3Dxl676603 align=3Dright>287,920 </td>
+  <td class=3Dxl676603 align=3Dright>19,640 </td>
+  <td class=3Dxl676603 align=3Dright>87,200 </td>
+  <td class=3Dxl676603 align=3Dright>35,990 </td>
+  <td class=3Dxl676603 align=3Dright>2,455 </td>
+  <td class=3Dxl676603 align=3Dright>89,655 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>迷霧綠森林 391</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>930</t=
+d>
+  <td class=3Dxl676603 align=3Dright>696,000 </td>
+  <td class=3Dxl676603 align=3Dright>287,360 </td>
+  <td class=3Dxl676603 align=3Dright>19,600 </td>
+  <td class=3Dxl676603 align=3Dright>87,000 </td>
+  <td class=3Dxl676603 align=3Dright>35,920 </td>
+  <td class=3Dxl676603 align=3Dright>2,450 </td>
+  <td class=3Dxl676603 align=3Dright>89,450 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 390</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,526<=
+/td>
+  <td class=3Dxl676603 align=3Dright>694,400 </td>
+  <td class=3Dxl676603 align=3Dright>286,800 </td>
+  <td class=3Dxl676603 align=3Dright>19,560 </td>
+  <td class=3Dxl676603 align=3Dright>86,800 </td>
+  <td class=3Dxl676603 align=3Dright>35,850 </td>
+  <td class=3Dxl676603 align=3Dright>2,445 </td>
+  <td class=3Dxl676603 align=3Dright>89,245 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 389</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,193<=
+/td>
+  <td class=3Dxl676603 align=3Dright>692,800 </td>
+  <td class=3Dxl676603 align=3Dright>286,240 </td>
+  <td class=3Dxl676603 align=3Dright>19,520 </td>
+  <td class=3Dxl676603 align=3Dright>86,600 </td>
+  <td class=3Dxl676603 align=3Dright>35,780 </td>
+  <td class=3Dxl676603 align=3Dright>2,440 </td>
+  <td class=3Dxl676603 align=3Dright>89,040 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 388</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>2,044<=
+/td>
+  <td class=3Dxl676603 align=3Dright>691,200 </td>
+  <td class=3Dxl676603 align=3Dright>285,680 </td>
+  <td class=3Dxl676603 align=3Dright>19,480 </td>
+  <td class=3Dxl676603 align=3Dright>86,400 </td>
+  <td class=3Dxl676603 align=3Dright>35,710 </td>
+  <td class=3Dxl676603 align=3Dright>2,435 </td>
+  <td class=3Dxl676603 align=3Dright>88,835 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 387</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,738<=
+/td>
+  <td class=3Dxl676603 align=3Dright>689,600 </td>
+  <td class=3Dxl676603 align=3Dright>285,120 </td>
+  <td class=3Dxl676603 align=3Dright>19,440 </td>
+  <td class=3Dxl676603 align=3Dright>86,200 </td>
+  <td class=3Dxl676603 align=3Dright>35,640 </td>
+  <td class=3Dxl676603 align=3Dright>2,430 </td>
+  <td class=3Dxl676603 align=3Dright>88,630 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 386</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,657<=
+/td>
+  <td class=3Dxl676603 align=3Dright>688,000 </td>
+  <td class=3Dxl676603 align=3Dright>284,560 </td>
+  <td class=3Dxl676603 align=3Dright>19,400 </td>
+  <td class=3Dxl676603 align=3Dright>86,000 </td>
+  <td class=3Dxl676603 align=3Dright>35,570 </td>
+  <td class=3Dxl676603 align=3Dright>2,425 </td>
+  <td class=3Dxl676603 align=3Dright>88,425 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>迷霧綠森林 385</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,578<=
+/td>
+  <td class=3Dxl676603 align=3Dright>686,400 </td>
+  <td class=3Dxl676603 align=3Dright>284,000 </td>
+  <td class=3Dxl676603 align=3Dright>19,360 </td>
+  <td class=3Dxl676603 align=3Dright>85,800 </td>
+  <td class=3Dxl676603 align=3Dright>35,500 </td>
+  <td class=3Dxl676603 align=3Dright>2,420 </td>
+  <td class=3Dxl676603 align=3Dright>88,220 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 384</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>2,019<=
+/td>
+  <td class=3Dxl676603 align=3Dright>681,600 </td>
+  <td class=3Dxl676603 align=3Dright>279,760 </td>
+  <td class=3Dxl676603 align=3Dright>19,320 </td>
+  <td class=3Dxl676603 align=3Dright>85,200 </td>
+  <td class=3Dxl676603 align=3Dright>34,970 </td>
+  <td class=3Dxl676603 align=3Dright>2,415 </td>
+  <td class=3Dxl676603 align=3Dright>87,615 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 383</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,768<=
+/td>
+  <td class=3Dxl676603 align=3Dright>680,000 </td>
+  <td class=3Dxl676603 align=3Dright>279,200 </td>
+  <td class=3Dxl676603 align=3Dright>19,280 </td>
+  <td class=3Dxl676603 align=3Dright>85,000 </td>
+  <td class=3Dxl676603 align=3Dright>34,900 </td>
+  <td class=3Dxl676603 align=3Dright>2,410 </td>
+  <td class=3Dxl676603 align=3Dright>87,410 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 382</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,609<=
+/td>
+  <td class=3Dxl676603 align=3Dright>678,400 </td>
+  <td class=3Dxl676603 align=3Dright>278,640 </td>
+  <td class=3Dxl676603 align=3Dright>19,240 </td>
+  <td class=3Dxl676603 align=3Dright>84,800 </td>
+  <td class=3Dxl676603 align=3Dright>34,830 </td>
+  <td class=3Dxl676603 align=3Dright>2,405 </td>
+  <td class=3Dxl676603 align=3Dright>87,205 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>鳳凰的巢穴 381</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>767</t=
+d>
+  <td class=3Dxl676603 align=3Dright>676,800 </td>
+  <td class=3Dxl676603 align=3Dright>278,080 </td>
+  <td class=3Dxl676603 align=3Dright>19,200 </td>
+  <td class=3Dxl676603 align=3Dright>84,600 </td>
+  <td class=3Dxl676603 align=3Dright>34,760 </td>
+  <td class=3Dxl676603 align=3Dright>2,400 </td>
+  <td class=3Dxl676603 align=3Dright>87,000 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 380</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>993</t=
+d>
+  <td class=3Dxl676603 align=3Dright>675,200 </td>
+  <td class=3Dxl676603 align=3Dright>277,520 </td>
+  <td class=3Dxl676603 align=3Dright>19,160 </td>
+  <td class=3Dxl676603 align=3Dright>84,400 </td>
+  <td class=3Dxl676603 align=3Dright>34,690 </td>
+  <td class=3Dxl676603 align=3Dright>2,395 </td>
+  <td class=3Dxl676603 align=3Dright>86,795 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 379</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,334<=
+/td>
+  <td class=3Dxl676603 align=3Dright>673,600 </td>
+  <td class=3Dxl676603 align=3Dright>276,960 </td>
+  <td class=3Dxl676603 align=3Dright>19,120 </td>
+  <td class=3Dxl676603 align=3Dright>84,200 </td>
+  <td class=3Dxl676603 align=3Dright>34,620 </td>
+  <td class=3Dxl676603 align=3Dright>2,390 </td>
+  <td class=3Dxl676603 align=3Dright>86,590 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>鳳凰的巢穴 378</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>895</t=
+d>
+  <td class=3Dxl676603 align=3Dright>672,000 </td>
+  <td class=3Dxl676603 align=3Dright>276,400 </td>
+  <td class=3Dxl676603 align=3Dright>19,080 </td>
+  <td class=3Dxl676603 align=3Dright>84,000 </td>
+  <td class=3Dxl676603 align=3Dright>34,550 </td>
+  <td class=3Dxl676603 align=3Dright>2,385 </td>
+  <td class=3Dxl676603 align=3Dright>86,385 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>鳳凰的巢穴 377</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>871</t=
+d>
+  <td class=3Dxl676603 align=3Dright>670,400 </td>
+  <td class=3Dxl676603 align=3Dright>275,840 </td>
+  <td class=3Dxl676603 align=3Dright>19,040 </td>
+  <td class=3Dxl676603 align=3Dright>83,800 </td>
+  <td class=3Dxl676603 align=3Dright>34,480 </td>
+  <td class=3Dxl676603 align=3Dright>2,380 </td>
+  <td class=3Dxl676603 align=3Dright>86,180 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 376</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,861<=
+/td>
+  <td class=3Dxl676603 align=3Dright>668,800 </td>
+  <td class=3Dxl676603 align=3Dright>275,280 </td>
+  <td class=3Dxl676603 align=3Dright>19,000 </td>
+  <td class=3Dxl676603 align=3Dright>83,600 </td>
+  <td class=3Dxl676603 align=3Dright>34,410 </td>
+  <td class=3Dxl676603 align=3Dright>2,375 </td>
+  <td class=3Dxl676603 align=3Dright>85,975 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>鳳凰的巢穴 375</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>950</t=
+d>
+  <td class=3Dxl676603 align=3Dright>667,200 </td>
+  <td class=3Dxl676603 align=3Dright>274,720 </td>
+  <td class=3Dxl676603 align=3Dright>18,960 </td>
+  <td class=3Dxl676603 align=3Dright>83,400 </td>
+  <td class=3Dxl676603 align=3Dright>34,340 </td>
+  <td class=3Dxl676603 align=3Dright>2,370 </td>
+  <td class=3Dxl676603 align=3Dright>85,770 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 374</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,913<=
+/td>
+  <td class=3Dxl676603 align=3Dright>665,600 </td>
+  <td class=3Dxl676603 align=3Dright>274,160 </td>
+  <td class=3Dxl676603 align=3Dright>18,920 </td>
+  <td class=3Dxl676603 align=3Dright>83,200 </td>
+  <td class=3Dxl676603 align=3Dright>34,270 </td>
+  <td class=3Dxl676603 align=3Dright>2,365 </td>
+  <td class=3Dxl676603 align=3Dright>85,565 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>鳳凰的巢穴 373</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,698<=
+/td>
+  <td class=3Dxl676603 align=3Dright>664,000 </td>
+  <td class=3Dxl676603 align=3Dright>273,600 </td>
+  <td class=3Dxl676603 align=3Dright>18,880 </td>
+  <td class=3Dxl676603 align=3Dright>83,000 </td>
+  <td class=3Dxl676603 align=3Dright>34,200 </td>
+  <td class=3Dxl676603 align=3Dright>2,360 </td>
+  <td class=3Dxl676603 align=3Dright>85,360 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 372</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>2,019<=
+/td>
+  <td class=3Dxl676603 align=3Dright>579,600 </td>
+  <td class=3Dxl676603 align=3Dright>238,910 </td>
+  <td class=3Dxl676603 align=3Dright>16,490 </td>
+  <td class=3Dxl676603 align=3Dright>82,800 </td>
+  <td class=3Dxl676603 align=3Dright>34,130 </td>
+  <td class=3Dxl676603 align=3Dright>2,356 </td>
+  <td class=3Dxl676603 align=3Dright>85,156 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 371</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,768<=
+/td>
+  <td class=3Dxl676603 align=3Dright>578,200 </td>
+  <td class=3Dxl676603 align=3Dright>238,420 </td>
+  <td class=3Dxl676603 align=3Dright>16,450 </td>
+  <td class=3Dxl676603 align=3Dright>82,600 </td>
+  <td class=3Dxl676603 align=3Dright>34,060 </td>
+  <td class=3Dxl676603 align=3Dright>2,350 </td>
+  <td class=3Dxl676603 align=3Dright>84,950 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 370</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,609<=
+/td>
+  <td class=3Dxl676603 align=3Dright>576,800 </td>
+  <td class=3Dxl676603 align=3Dright>237,930 </td>
+  <td class=3Dxl676603 align=3Dright>16,420 </td>
+  <td class=3Dxl676603 align=3Dright>82,400 </td>
+  <td class=3Dxl676603 align=3Dright>33,990 </td>
+  <td class=3Dxl676603 align=3Dright>2,346 </td>
+  <td class=3Dxl676603 align=3Dright>84,746 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>雪花火車站 369</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>767</t=
+d>
+  <td class=3Dxl676603 align=3Dright>575,400 </td>
+  <td class=3Dxl676603 align=3Dright>237,440 </td>
+  <td class=3Dxl676603 align=3Dright>16,380 </td>
+  <td class=3Dxl676603 align=3Dright>82,200 </td>
+  <td class=3Dxl676603 align=3Dright>33,920 </td>
+  <td class=3Dxl676603 align=3Dright>2,340 </td>
+  <td class=3Dxl676603 align=3Dright>84,540 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 368</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>993</t=
+d>
+  <td class=3Dxl676603 align=3Dright>574,000 </td>
+  <td class=3Dxl676603 align=3Dright>236,950 </td>
+  <td class=3Dxl676603 align=3Dright>16,350 </td>
+  <td class=3Dxl676603 align=3Dright>82,000 </td>
+  <td class=3Dxl676603 align=3Dright>33,850 </td>
+  <td class=3Dxl676603 align=3Dright>2,336 </td>
+  <td class=3Dxl676603 align=3Dright>84,336 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 367</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,334<=
+/td>
+  <td class=3Dxl676603 align=3Dright>572,600 </td>
+  <td class=3Dxl676603 align=3Dright>236,460 </td>
+  <td class=3Dxl676603 align=3Dright>16,310 </td>
+  <td class=3Dxl676603 align=3Dright>81,800 </td>
+  <td class=3Dxl676603 align=3Dright>33,780 </td>
+  <td class=3Dxl676603 align=3Dright>2,330 </td>
+  <td class=3Dxl676603 align=3Dright>84,130 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>雪花火車站 366</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>895</t=
+d>
+  <td class=3Dxl676603 align=3Dright>571,200 </td>
+  <td class=3Dxl676603 align=3Dright>235,970 </td>
+  <td class=3Dxl676603 align=3Dright>16,280 </td>
+  <td class=3Dxl676603 align=3Dright>81,600 </td>
+  <td class=3Dxl676603 align=3Dright>33,710 </td>
+  <td class=3Dxl676603 align=3Dright>2,326 </td>
+  <td class=3Dxl676603 align=3Dright>83,926 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>雪花火車站 365</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>871</t=
+d>
+  <td class=3Dxl676603 align=3Dright>569,800 </td>
+  <td class=3Dxl676603 align=3Dright>235,480 </td>
+  <td class=3Dxl676603 align=3Dright>16,240 </td>
+  <td class=3Dxl676603 align=3Dright>81,400 </td>
+  <td class=3Dxl676603 align=3Dright>33,640 </td>
+  <td class=3Dxl676603 align=3Dright>2,320 </td>
+  <td class=3Dxl676603 align=3Dright>83,720 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 364</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,861<=
+/td>
+  <td class=3Dxl676603 align=3Dright>568,400 </td>
+  <td class=3Dxl676603 align=3Dright>234,990 </td>
+  <td class=3Dxl676603 align=3Dright>16,210 </td>
+  <td class=3Dxl676603 align=3Dright>81,200 </td>
+  <td class=3Dxl676603 align=3Dright>33,570 </td>
+  <td class=3Dxl676603 align=3Dright>2,316 </td>
+  <td class=3Dxl676603 align=3Dright>83,516 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>雪花火車站 363</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>910</t=
+d>
+  <td class=3Dxl676603 align=3Dright>567,000 </td>
+  <td class=3Dxl676603 align=3Dright>234,500 </td>
+  <td class=3Dxl676603 align=3Dright>16,170 </td>
+  <td class=3Dxl676603 align=3Dright>81,000 </td>
+  <td class=3Dxl676603 align=3Dright>33,500 </td>
+  <td class=3Dxl676603 align=3Dright>2,310 </td>
+  <td class=3Dxl676603 align=3Dright>83,310 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 362</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,913<=
+/td>
+  <td class=3Dxl676603 align=3Dright>565,600 </td>
+  <td class=3Dxl676603 align=3Dright>234,010 </td>
+  <td class=3Dxl676603 align=3Dright>16,140 </td>
+  <td class=3Dxl676603 align=3Dright>80,800 </td>
+  <td class=3Dxl676603 align=3Dright>33,430 </td>
+  <td class=3Dxl676603 align=3Dright>2,306 </td>
+  <td class=3Dxl676603 align=3Dright>83,106 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>雪花火車站 361</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,698<=
+/td>
+  <td class=3Dxl676603 align=3Dright>564,200 </td>
+  <td class=3Dxl676603 align=3Dright>233,520 </td>
+  <td class=3Dxl676603 align=3Dright>16,100 </td>
+  <td class=3Dxl676603 align=3Dright>80,600 </td>
+  <td class=3Dxl676603 align=3Dright>33,360 </td>
+  <td class=3Dxl676603 align=3Dright>2,300 </td>
+  <td class=3Dxl676603 align=3Dright>82,900 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 360</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,980<=
+/td>
+  <td class=3Dxl676603 align=3Dright>562,800 </td>
+  <td class=3Dxl676603 align=3Dright>233,030 </td>
+  <td class=3Dxl676603 align=3Dright>16,070 </td>
+  <td class=3Dxl676603 align=3Dright>80,400 </td>
+  <td class=3Dxl676603 align=3Dright>33,290 </td>
+  <td class=3Dxl676603 align=3Dright>2,296 </td>
+  <td class=3Dxl676603 align=3Dright>82,696 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>濱海灣 359</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>595</t=
+d>
+  <td class=3Dxl676603 align=3Dright>561,400 </td>
+  <td class=3Dxl676603 align=3Dright>232,540 </td>
+  <td class=3Dxl676603 align=3Dright>16,030 </td>
+  <td class=3Dxl676603 align=3Dright>80,200 </td>
+  <td class=3Dxl676603 align=3Dright>33,220 </td>
+  <td class=3Dxl676603 align=3Dright>2,290 </td>
+  <td class=3Dxl676603 align=3Dright>82,490 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 358</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,255<=
+/td>
+  <td class=3Dxl676603 align=3Dright>560,000 </td>
+  <td class=3Dxl676603 align=3Dright>232,050 </td>
+  <td class=3Dxl676603 align=3Dright>16,000 </td>
+  <td class=3Dxl676603 align=3Dright>80,000 </td>
+  <td class=3Dxl676603 align=3Dright>33,150 </td>
+  <td class=3Dxl676603 align=3Dright>2,286 </td>
+  <td class=3Dxl676603 align=3Dright>82,286 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 357</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>990</t=
+d>
+  <td class=3Dxl676603 align=3Dright>558,600 </td>
+  <td class=3Dxl676603 align=3Dright>231,560 </td>
+  <td class=3Dxl676603 align=3Dright>15,960 </td>
+  <td class=3Dxl676603 align=3Dright>79,800 </td>
+  <td class=3Dxl676603 align=3Dright>33,080 </td>
+  <td class=3Dxl676603 align=3Dright>2,280 </td>
+  <td class=3Dxl676603 align=3Dright>82,080 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 356</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,390<=
+/td>
+  <td class=3Dxl676603 align=3Dright>557,200 </td>
+  <td class=3Dxl676603 align=3Dright>231,070 </td>
+  <td class=3Dxl676603 align=3Dright>15,930 </td>
+  <td class=3Dxl676603 align=3Dright>79,600 </td>
+  <td class=3Dxl676603 align=3Dright>33,010 </td>
+  <td class=3Dxl676603 align=3Dright>2,276 </td>
+  <td class=3Dxl676603 align=3Dright>81,876 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 355</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,305<=
+/td>
+  <td class=3Dxl676603 align=3Dright>555,800 </td>
+  <td class=3Dxl676603 align=3Dright>230,580 </td>
+  <td class=3Dxl676603 align=3Dright>15,890 </td>
+  <td class=3Dxl676603 align=3Dright>79,400 </td>
+  <td class=3Dxl676603 align=3Dright>32,940 </td>
+  <td class=3Dxl676603 align=3Dright>2,270 </td>
+  <td class=3Dxl676603 align=3Dright>81,670 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 354</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,255<=
+/td>
+  <td class=3Dxl676603 align=3Dright>554,400 </td>
+  <td class=3Dxl676603 align=3Dright>230,090 </td>
+  <td class=3Dxl676603 align=3Dright>15,860 </td>
+  <td class=3Dxl676603 align=3Dright>79,200 </td>
+  <td class=3Dxl676603 align=3Dright>32,870 </td>
+  <td class=3Dxl676603 align=3Dright>2,266 </td>
+  <td class=3Dxl676603 align=3Dright>81,466 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 353</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,175<=
+/td>
+  <td class=3Dxl676603 align=3Dright>553,000 </td>
+  <td class=3Dxl676603 align=3Dright>229,600 </td>
+  <td class=3Dxl676603 align=3Dright>15,820 </td>
+  <td class=3Dxl676603 align=3Dright>79,000 </td>
+  <td class=3Dxl676603 align=3Dright>32,800 </td>
+  <td class=3Dxl676603 align=3Dright>2,260 </td>
+  <td class=3Dxl676603 align=3Dright>81,260 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 352</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,460<=
+/td>
+  <td class=3Dxl676603 align=3Dright>551,600 </td>
+  <td class=3Dxl676603 align=3Dright>229,110 </td>
+  <td class=3Dxl676603 align=3Dright>15,790 </td>
+  <td class=3Dxl676603 align=3Dright>78,800 </td>
+  <td class=3Dxl676603 align=3Dright>32,730 </td>
+  <td class=3Dxl676603 align=3Dright>2,256 </td>
+  <td class=3Dxl676603 align=3Dright>81,056 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 351</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>990</t=
+d>
+  <td class=3Dxl676603 align=3Dright>550,200 </td>
+  <td class=3Dxl676603 align=3Dright>228,620 </td>
+  <td class=3Dxl676603 align=3Dright>15,750 </td>
+  <td class=3Dxl676603 align=3Dright>78,600 </td>
+  <td class=3Dxl676603 align=3Dright>32,660 </td>
+  <td class=3Dxl676603 align=3Dright>2,250 </td>
+  <td class=3Dxl676603 align=3Dright>80,850 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>濱海灣 350</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>595</t=
+d>
+  <td class=3Dxl676603 align=3Dright>548,800 </td>
+  <td class=3Dxl676603 align=3Dright>228,130 </td>
+  <td class=3Dxl676603 align=3Dright>15,720 </td>
+  <td class=3Dxl676603 align=3Dright>78,400 </td>
+  <td class=3Dxl676603 align=3Dright>32,590 </td>
+  <td class=3Dxl676603 align=3Dright>2,246 </td>
+  <td class=3Dxl676603 align=3Dright>80,646 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>濱海灣 349</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,305<=
+/td>
+  <td class=3Dxl676603 align=3Dright>547,400 </td>
+  <td class=3Dxl676603 align=3Dright>227,640 </td>
+  <td class=3Dxl676603 align=3Dright>15,680 </td>
+  <td class=3Dxl676603 align=3Dright>78,200 </td>
+  <td class=3Dxl676603 align=3Dright>32,520 </td>
+  <td class=3Dxl676603 align=3Dright>2,240 </td>
+  <td class=3Dxl676603 align=3Dright>80,440 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>夜貓子遺址 348</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>887</t=
+d>
+  <td class=3Dxl676603 align=3Dright>546,000 </td>
+  <td class=3Dxl676603 align=3Dright>227,150 </td>
+  <td class=3Dxl676603 align=3Dright>15,650 </td>
+  <td class=3Dxl676603 align=3Dright>78,000 </td>
+  <td class=3Dxl676603 align=3Dright>32,450 </td>
+  <td class=3Dxl676603 align=3Dright>2,236 </td>
+  <td class=3Dxl676603 align=3Dright>80,236 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>夜貓子遺址 347</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>952</t=
+d>
+  <td class=3Dxl676603 align=3Dright>544,600 </td>
+  <td class=3Dxl676603 align=3Dright>226,660 </td>
+  <td class=3Dxl676603 align=3Dright>15,610 </td>
+  <td class=3Dxl676603 align=3Dright>77,800 </td>
+  <td class=3Dxl676603 align=3Dright>32,380 </td>
+  <td class=3Dxl676603 align=3Dright>2,230 </td>
+  <td class=3Dxl676603 align=3Dright>80,030 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 346</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,415<=
+/td>
+  <td class=3Dxl676603 align=3Dright>543,200 </td>
+  <td class=3Dxl676603 align=3Dright>226,170 </td>
+  <td class=3Dxl676603 align=3Dright>15,580 </td>
+  <td class=3Dxl676603 align=3Dright>77,600 </td>
+  <td class=3Dxl676603 align=3Dright>32,310 </td>
+  <td class=3Dxl676603 align=3Dright>2,226 </td>
+  <td class=3Dxl676603 align=3Dright>79,826 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 345</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,254<=
+/td>
+  <td class=3Dxl676603 align=3Dright>541,800 </td>
+  <td class=3Dxl676603 align=3Dright>225,680 </td>
+  <td class=3Dxl676603 align=3Dright>15,540 </td>
+  <td class=3Dxl676603 align=3Dright>77,400 </td>
+  <td class=3Dxl676603 align=3Dright>32,240 </td>
+  <td class=3Dxl676603 align=3Dright>2,220 </td>
+  <td class=3Dxl676603 align=3Dright>79,620 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 344</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,704<=
+/td>
+  <td class=3Dxl676603 align=3Dright>540,400 </td>
+  <td class=3Dxl676603 align=3Dright>225,190 </td>
+  <td class=3Dxl676603 align=3Dright>15,510 </td>
+  <td class=3Dxl676603 align=3Dright>77,200 </td>
+  <td class=3Dxl676603 align=3Dright>32,170 </td>
+  <td class=3Dxl676603 align=3Dright>2,216 </td>
+  <td class=3Dxl676603 align=3Dright>79,416 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 343</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,670<=
+/td>
+  <td class=3Dxl676603 align=3Dright>539,000 </td>
+  <td class=3Dxl676603 align=3Dright>224,700 </td>
+  <td class=3Dxl676603 align=3Dright>15,470 </td>
+  <td class=3Dxl676603 align=3Dright>77,000 </td>
+  <td class=3Dxl676603 align=3Dright>32,100 </td>
+  <td class=3Dxl676603 align=3Dright>2,210 </td>
+  <td class=3Dxl676603 align=3Dright>79,210 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 342</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>2,173<=
+/td>
+  <td class=3Dxl676603 align=3Dright>537,600 </td>
+  <td class=3Dxl676603 align=3Dright>224,210 </td>
+  <td class=3Dxl676603 align=3Dright>15,440 </td>
+  <td class=3Dxl676603 align=3Dright>76,800 </td>
+  <td class=3Dxl676603 align=3Dright>32,030 </td>
+  <td class=3Dxl676603 align=3Dright>2,206 </td>
+  <td class=3Dxl676603 align=3Dright>79,006 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>夜貓子遺址 341</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>828</t=
+d>
+  <td class=3Dxl676603 align=3Dright>536,200 </td>
+  <td class=3Dxl676603 align=3Dright>223,720 </td>
+  <td class=3Dxl676603 align=3Dright>15,400 </td>
+  <td class=3Dxl676603 align=3Dright>76,600 </td>
+  <td class=3Dxl676603 align=3Dright>31,960 </td>
+  <td class=3Dxl676603 align=3Dright>2,200 </td>
+  <td class=3Dxl676603 align=3Dright>78,800 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 340</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,871<=
+/td>
+  <td class=3Dxl676603 align=3Dright>534,800 </td>
+  <td class=3Dxl676603 align=3Dright>223,230 </td>
+  <td class=3Dxl676603 align=3Dright>15,370 </td>
+  <td class=3Dxl676603 align=3Dright>76,400 </td>
+  <td class=3Dxl676603 align=3Dright>31,890 </td>
+  <td class=3Dxl676603 align=3Dright>2,196 </td>
+  <td class=3Dxl676603 align=3Dright>78,596 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 339</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,443<=
+/td>
+  <td class=3Dxl676603 align=3Dright>533,400 </td>
+  <td class=3Dxl676603 align=3Dright>222,740 </td>
+  <td class=3Dxl676603 align=3Dright>15,330 </td>
+  <td class=3Dxl676603 align=3Dright>76,200 </td>
+  <td class=3Dxl676603 align=3Dright>31,820 </td>
+  <td class=3Dxl676603 align=3Dright>2,190 </td>
+  <td class=3Dxl676603 align=3Dright>78,390 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 338</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,034<=
+/td>
+  <td class=3Dxl676603 align=3Dright>532,000 </td>
+  <td class=3Dxl676603 align=3Dright>222,250 </td>
+  <td class=3Dxl676603 align=3Dright>15,300 </td>
+  <td class=3Dxl676603 align=3Dright>76,000 </td>
+  <td class=3Dxl676603 align=3Dright>31,750 </td>
+  <td class=3Dxl676603 align=3Dright>2,186 </td>
+  <td class=3Dxl676603 align=3Dright>78,186 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>夜貓子遺址 337</=
+td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,887<=
+/td>
+  <td class=3Dxl676603 align=3Dright>530,600 </td>
+  <td class=3Dxl676603 align=3Dright>221,760 </td>
+  <td class=3Dxl676603 align=3Dright>15,260 </td>
+  <td class=3Dxl676603 align=3Dright>75,800 </td>
+  <td class=3Dxl676603 align=3Dright>31,680 </td>
+  <td class=3Dxl676603 align=3Dright>2,180 </td>
+  <td class=3Dxl676603 align=3Dright>77,980 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>魔嚕魔嚕星球入口=
+ 336</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,980<=
+/td>
+  <td class=3Dxl676603 align=3Dright>529,200 </td>
+  <td class=3Dxl676603 align=3Dright>221,270 </td>
+  <td class=3Dxl676603 align=3Dright>15,230 </td>
+  <td class=3Dxl676603 align=3Dright>75,600 </td>
+  <td class=3Dxl676603 align=3Dright>31,610 </td>
+  <td class=3Dxl676603 align=3Dright>2,176 </td>
+  <td class=3Dxl676603 align=3Dright>77,776 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl776603 style=3D'height:16.5pt'>魔嚕魔嚕星球入口=
+ 335</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>595</t=
+d>
+  <td class=3Dxl676603 align=3Dright>527,800 </td>
+  <td class=3Dxl676603 align=3Dright>220,780 </td>
+  <td class=3Dxl676603 align=3Dright>15,190 </td>
+  <td class=3Dxl676603 align=3Dright>75,400 </td>
+  <td class=3Dxl676603 align=3Dright>31,540 </td>
+  <td class=3Dxl676603 align=3Dright>2,170 </td>
+  <td class=3Dxl676603 align=3Dright>77,570 </td>
+  <td class=3Dxl756603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>魔嚕魔嚕星球入口=
+ 334</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,255<=
+/td>
+  <td class=3Dxl676603 align=3Dright>526,400 </td>
+  <td class=3Dxl676603 align=3Dright>220,290 </td>
+  <td class=3Dxl676603 align=3Dright>15,160 </td>
+  <td class=3Dxl676603 align=3Dright>75,200 </td>
+  <td class=3Dxl676603 align=3Dright>31,470 </td>
+  <td class=3Dxl676603 align=3Dright>2,166 </td>
+  <td class=3Dxl676603 align=3Dright>77,366 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt' role=3Drow>
+  <td height=3D22 class=3Dxl646603 style=3D'height:16.5pt'>魔嚕魔嚕星球入口=
+ 333</td>
+  <td class=3Dxl656603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl666603 align=3Dright width=3D78 style=3D'width:59pt'>1,000<=
+/td>
+  <td class=3Dxl676603 align=3Dright>525,000 </td>
+  <td class=3Dxl676603 align=3Dright>219,800 </td>
+  <td class=3Dxl676603 align=3Dright>15,120 </td>
+  <td class=3Dxl676603 align=3Dright>75,000 </td>
+  <td class=3Dxl676603 align=3Dright>31,400 </td>
+  <td class=3Dxl676603 align=3Dright>2,160 </td>
+  <td class=3Dxl676603 align=3Dright>77,160 </td>
+  <td class=3Dxl756603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>盎然綠樹 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>12</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,270<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>504,000 </td>
+  <td class=3Dxl716603 align=3Dright>216,000 </td>
+  <td class=3Dxl716603 align=3Dright>240,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,000 </td>
+  <td class=3Dxl716603 align=3Dright>18,000 </td>
+  <td class=3Dxl716603 align=3Dright>258,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>盎然綠樹 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>10</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,210<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>420,000 </td>
+  <td class=3Dxl716603 align=3Dright>180,000 </td>
+  <td class=3Dxl716603 align=3Dright>220,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,000 </td>
+  <td class=3Dxl716603 align=3Dright>18,000 </td>
+  <td class=3Dxl716603 align=3Dright>238,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>盎然綠樹 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,346<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>296,000 </td>
+  <td class=3Dxl716603 align=3Dright>120,000 </td>
+  <td class=3Dxl716603 align=3Dright>200,000 </td>
+  <td class=3Dxl716603 align=3Dright>37,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>215,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>盎然綠樹 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>6</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>210,000 </td>
+  <td class=3Dxl716603 align=3Dright>81,000 </td>
+  <td class=3Dxl716603 align=3Dright>190,000 </td>
+  <td class=3Dxl716603 align=3Dright>35,000 </td>
+  <td class=3Dxl716603 align=3Dright>13,500 </td>
+  <td class=3Dxl716603 align=3Dright>203,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>盎然綠樹 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,080<=
+/td>
+  <td class=3Dxl716603 align=3Dright>247,670 </td>
+  <td class=3Dxl716603 align=3Dright>51,600 </td>
+  <td class=3Dxl716603 align=3Dright>28,140 </td>
+  <td class=3Dxl716603 align=3Dright>61,918 </td>
+  <td class=3Dxl716603 align=3Dright>12,900 </td>
+  <td class=3Dxl716603 align=3Dright>7,035 </td>
+  <td class=3Dxl716603 align=3Dright>68,953 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>盎然綠樹 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>41,470 </td>
+  <td class=3Dxl716603 align=3Dright>8,640 </td>
+  <td class=3Dxl716603 align=3Dright>6,080 </td>
+  <td class=3Dxl716603 align=3Dright>20,735 </td>
+  <td class=3Dxl716603 align=3Dright>4,320 </td>
+  <td class=3Dxl716603 align=3Dright>3,040 </td>
+  <td class=3Dxl716603 align=3Dright>23,775 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>鮮紅火山 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>12</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,270<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>504,000 </td>
+  <td class=3Dxl716603 align=3Dright>216,000 </td>
+  <td class=3Dxl716603 align=3Dright>240,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,000 </td>
+  <td class=3Dxl716603 align=3Dright>18,000 </td>
+  <td class=3Dxl716603 align=3Dright>258,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>鮮紅火山 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>10</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,210<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>420,000 </td>
+  <td class=3Dxl716603 align=3Dright>180,000 </td>
+  <td class=3Dxl716603 align=3Dright>220,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,000 </td>
+  <td class=3Dxl716603 align=3Dright>18,000 </td>
+  <td class=3Dxl716603 align=3Dright>238,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>鮮紅火山 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,346<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>296,000 </td>
+  <td class=3Dxl716603 align=3Dright>120,000 </td>
+  <td class=3Dxl716603 align=3Dright>200,000 </td>
+  <td class=3Dxl716603 align=3Dright>37,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>215,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>鮮紅火山 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>6</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>210,000 </td>
+  <td class=3Dxl716603 align=3Dright>81,000 </td>
+  <td class=3Dxl716603 align=3Dright>190,000 </td>
+  <td class=3Dxl716603 align=3Dright>35,000 </td>
+  <td class=3Dxl716603 align=3Dright>13,500 </td>
+  <td class=3Dxl716603 align=3Dright>203,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>鮮紅火山 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,050<=
+/td>
+  <td class=3Dxl716603 align=3Dright>247,670 </td>
+  <td class=3Dxl716603 align=3Dright>51,600 </td>
+  <td class=3Dxl716603 align=3Dright>28,140 </td>
+  <td class=3Dxl716603 align=3Dright>61,918 </td>
+  <td class=3Dxl716603 align=3Dright>12,900 </td>
+  <td class=3Dxl716603 align=3Dright>7,035 </td>
+  <td class=3Dxl716603 align=3Dright>68,953 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>鮮紅火山 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>41,470 </td>
+  <td class=3Dxl716603 align=3Dright>8,640 </td>
+  <td class=3Dxl716603 align=3Dright>6,080 </td>
+  <td class=3Dxl716603 align=3Dright>20,735 </td>
+  <td class=3Dxl716603 align=3Dright>4,320 </td>
+  <td class=3Dxl716603 align=3Dright>3,040 </td>
+  <td class=3Dxl716603 align=3Dright>23,775 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>流動冰河 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>12</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,270<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>504,000 </td>
+  <td class=3Dxl716603 align=3Dright>216,000 </td>
+  <td class=3Dxl716603 align=3Dright>240,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,000 </td>
+  <td class=3Dxl716603 align=3Dright>18,000 </td>
+  <td class=3Dxl716603 align=3Dright>258,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>流動冰河 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>10</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,210<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>420,000 </td>
+  <td class=3Dxl716603 align=3Dright>180,000 </td>
+  <td class=3Dxl716603 align=3Dright>220,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,000 </td>
+  <td class=3Dxl716603 align=3Dright>18,000 </td>
+  <td class=3Dxl716603 align=3Dright>238,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>流動冰河 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,346<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>296,000 </td>
+  <td class=3Dxl716603 align=3Dright>120,000 </td>
+  <td class=3Dxl716603 align=3Dright>200,000 </td>
+  <td class=3Dxl716603 align=3Dright>37,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>215,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>流動冰河 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>6</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>210,000 </td>
+  <td class=3Dxl716603 align=3Dright>81,000 </td>
+  <td class=3Dxl716603 align=3Dright>190,000 </td>
+  <td class=3Dxl716603 align=3Dright>35,000 </td>
+  <td class=3Dxl716603 align=3Dright>13,500 </td>
+  <td class=3Dxl716603 align=3Dright>203,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>流動冰河 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,100<=
+/td>
+  <td class=3Dxl716603 align=3Dright>247,670 </td>
+  <td class=3Dxl716603 align=3Dright>51,600 </td>
+  <td class=3Dxl716603 align=3Dright>28,140 </td>
+  <td class=3Dxl716603 align=3Dright>61,918 </td>
+  <td class=3Dxl716603 align=3Dright>12,900 </td>
+  <td class=3Dxl716603 align=3Dright>7,035 </td>
+  <td class=3Dxl716603 align=3Dright>68,953 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>流動冰河 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>41,470 </td>
+  <td class=3Dxl716603 align=3Dright>8,640 </td>
+  <td class=3Dxl716603 align=3Dright>6,080 </td>
+  <td class=3Dxl716603 align=3Dright>20,735 </td>
+  <td class=3Dxl716603 align=3Dright>4,320 </td>
+  <td class=3Dxl716603 align=3Dright>3,040 </td>
+  <td class=3Dxl716603 align=3Dright>23,775 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>雷納德星球 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,988<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>462,220 </td>
+  <td class=3Dxl716603 align=3Dright>195,290 </td>
+  <td class=3Dxl716603 align=3Dright>740,000 </td>
+  <td class=3Dxl716603 align=3Dright>154,073 </td>
+  <td class=3Dxl716603 align=3Dright>65,097 </td>
+  <td class=3Dxl716603 align=3Dright>805,097 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>雷納德星球 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,877<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>267,480 </td>
+  <td class=3Dxl716603 align=3Dright>128,410 </td>
+  <td class=3Dxl716603 align=3Dright>426,667 </td>
+  <td class=3Dxl716603 align=3Dright>89,160 </td>
+  <td class=3Dxl716603 align=3Dright>42,803 </td>
+  <td class=3Dxl716603 align=3Dright>469,470 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>雷納德星球 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,460<=
+/td>
+  <td class=3Dxl716603 align=3Dright>495,340 </td>
+  <td class=3Dxl716603 align=3Dright>103,190 </td>
+  <td class=3Dxl716603 align=3Dright>56,290 </td>
+  <td class=3Dxl716603 align=3Dright>247,670 </td>
+  <td class=3Dxl716603 align=3Dright>51,595 </td>
+  <td class=3Dxl716603 align=3Dright>28,145 </td>
+  <td class=3Dxl716603 align=3Dright>275,815 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>雷納德星球 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,280<=
+/td>
+  <td class=3Dxl716603 align=3Dright>286,660 </td>
+  <td class=3Dxl716603 align=3Dright>59,680 </td>
+  <td class=3Dxl716603 align=3Dright>37,010 </td>
+  <td class=3Dxl716603 align=3Dright>143,330 </td>
+  <td class=3Dxl716603 align=3Dright>29,840 </td>
+  <td class=3Dxl716603 align=3Dright>18,505 </td>
+  <td class=3Dxl716603 align=3Dright>161,835 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>雷納德星球 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>980</t=
+d>
+  <td class=3Dxl716603 align=3Dright>82,940 </td>
+  <td class=3Dxl716603 align=3Dright>17,280 </td>
+  <td class=3Dxl716603 align=3Dright>12,170 </td>
+  <td class=3Dxl716603 align=3Dright>82,940 </td>
+  <td class=3Dxl716603 align=3Dright>17,280 </td>
+  <td class=3Dxl716603 align=3Dright>12,170 </td>
+  <td class=3Dxl716603 align=3Dright>95,110 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>雷納德星球 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>920</t=
+d>
+  <td class=3Dxl716603 align=3Dright>48,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>8,000 </td>
+  <td class=3Dxl716603 align=3Dright>48,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>8,000 </td>
+  <td class=3Dxl716603 align=3Dright>56,000 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>MEGA MAN 星球 6<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>6</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,300<=
+/td>
+  <td class=3Dxl716603 align=3Dright>200,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>35,000 </td>
+  <td class=3Dxl716603 align=3Dright>33,333 </td>
+  <td class=3Dxl716603 align=3Dright>4,167 </td>
+  <td class=3Dxl716603 align=3Dright>5,833 </td>
+  <td class=3Dxl716603 align=3Dright>39,167 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>MEGA MAN 星球 5<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,600<=
+/td>
+  <td class=3Dxl716603 align=3Dright>160,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>30,000 </td>
+  <td class=3Dxl716603 align=3Dright>32,000 </td>
+  <td class=3Dxl716603 align=3Dright>4,000 </td>
+  <td class=3Dxl716603 align=3Dright>6,000 </td>
+  <td class=3Dxl716603 align=3Dright>38,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>MEGA MAN 星球 4<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,430<=
+/td>
+  <td class=3Dxl716603 align=3Dright>120,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>30,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,750 </td>
+  <td class=3Dxl716603 align=3Dright>6,250 </td>
+  <td class=3Dxl716603 align=3Dright>36,250 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>MEGA MAN 星球 3<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,109<=
+/td>
+  <td class=3Dxl716603 align=3Dright>80,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>26,667 </td>
+  <td class=3Dxl716603 align=3Dright>3,333 </td>
+  <td class=3Dxl716603 align=3Dright>6,667 </td>
+  <td class=3Dxl716603 align=3Dright>33,333 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>MEGA MAN 星球 2<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,300<=
+/td>
+  <td class=3Dxl716603 align=3Dright>50,000 </td>
+  <td class=3Dxl716603 align=3Dright>8,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>4,000 </td>
+  <td class=3Dxl716603 align=3Dright>7,500 </td>
+  <td class=3Dxl716603 align=3Dright>32,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>MEGA MAN 星球 1<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,109<=
+/td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>30,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>4週年紀念星球 6<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>12</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,110<=
+/td>
+  <td class=3Dxl716603 align=3Dright>200,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>35,000 </td>
+  <td class=3Dxl716603 align=3Dright>16,667 </td>
+  <td class=3Dxl716603 align=3Dright>2,083 </td>
+  <td class=3Dxl716603 align=3Dright>2,917 </td>
+  <td class=3Dxl716603 align=3Dright>19,583 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>4週年紀念星球 5<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>12</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>898</t=
+d>
+  <td class=3Dxl716603 align=3Dright>160,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>30,000 </td>
+  <td class=3Dxl716603 align=3Dright>13,333 </td>
+  <td class=3Dxl716603 align=3Dright>1,667 </td>
+  <td class=3Dxl716603 align=3Dright>2,500 </td>
+  <td class=3Dxl716603 align=3Dright>15,833 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>4週年紀念星球 4<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>980</t=
+d>
+  <td class=3Dxl716603 align=3Dright>120,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>1,875 </td>
+  <td class=3Dxl716603 align=3Dright>3,125 </td>
+  <td class=3Dxl716603 align=3Dright>18,125 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>4週年紀念星球 3<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,080<=
+/td>
+  <td class=3Dxl716603 align=3Dright>80,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>1,250 </td>
+  <td class=3Dxl716603 align=3Dright>2,500 </td>
+  <td class=3Dxl716603 align=3Dright>12,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>4週年紀念星球 2<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>590</t=
+d>
+  <td class=3Dxl716603 align=3Dright>50,000 </td>
+  <td class=3Dxl716603 align=3Dright>8,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>12,500 </td>
+  <td class=3Dxl716603 align=3Dright>2,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,750 </td>
+  <td class=3Dxl716603 align=3Dright>16,250 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>4週年紀念星球 1<=
+/td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>880</t=
+d>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>5,000 </td>
+  <td class=3Dxl716603 align=3Dright>750 </td>
+  <td class=3Dxl716603 align=3Dright>2,500 </td>
+  <td class=3Dxl716603 align=3Dright>7,500 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甜蜜的糖衣陷阱 6=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>6</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,380<=
+/td>
+  <td class=3Dxl716603 align=3Dright>200,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>35,000 </td>
+  <td class=3Dxl716603 align=3Dright>33,333 </td>
+  <td class=3Dxl716603 align=3Dright>4,167 </td>
+  <td class=3Dxl716603 align=3Dright>5,833 </td>
+  <td class=3Dxl716603 align=3Dright>39,167 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甜蜜的糖衣陷阱 5=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,470<=
+/td>
+  <td class=3Dxl716603 align=3Dright>160,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>30,000 </td>
+  <td class=3Dxl716603 align=3Dright>32,000 </td>
+  <td class=3Dxl716603 align=3Dright>4,000 </td>
+  <td class=3Dxl716603 align=3Dright>6,000 </td>
+  <td class=3Dxl716603 align=3Dright>38,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甜蜜的糖衣陷阱 4=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,260<=
+/td>
+  <td class=3Dxl716603 align=3Dright>120,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>30,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,750 </td>
+  <td class=3Dxl716603 align=3Dright>6,250 </td>
+  <td class=3Dxl716603 align=3Dright>36,250 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甜蜜的糖衣陷阱 3=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,230<=
+/td>
+  <td class=3Dxl716603 align=3Dright>80,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>26,667 </td>
+  <td class=3Dxl716603 align=3Dright>3,333 </td>
+  <td class=3Dxl716603 align=3Dright>6,667 </td>
+  <td class=3Dxl716603 align=3Dright>33,333 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甜蜜的糖衣陷阱 2=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,050<=
+/td>
+  <td class=3Dxl716603 align=3Dright>50,000 </td>
+  <td class=3Dxl716603 align=3Dright>8,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>25,000 </td>
+  <td class=3Dxl716603 align=3Dright>4,000 </td>
+  <td class=3Dxl716603 align=3Dright>7,500 </td>
+  <td class=3Dxl716603 align=3Dright>32,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甜蜜的糖衣陷阱 1=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>900</t=
+d>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>20,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,000 </td>
+  <td class=3Dxl716603 align=3Dright>30,000 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>魔法的迷途魔方 6=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>982</t=
+d>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>304,000 </td>
+  <td class=3Dxl716603 align=3Dright>128,000 </td>
+  <td class=3Dxl716603 align=3Dright>203,750 </td>
+  <td class=3Dxl716603 align=3Dright>38,000 </td>
+  <td class=3Dxl716603 align=3Dright>16,000 </td>
+  <td class=3Dxl716603 align=3Dright>219,750 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>魔法的迷途魔方 5=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>891</t=
+d>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>300,000 </td>
+  <td class=3Dxl716603 align=3Dright>124,000 </td>
+  <td class=3Dxl716603 align=3Dright>202,500 </td>
+  <td class=3Dxl716603 align=3Dright>37,500 </td>
+  <td class=3Dxl716603 align=3Dright>15,500 </td>
+  <td class=3Dxl716603 align=3Dright>218,000 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>魔法的迷途魔方 4=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>8</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>910</t=
+d>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>296,000 </td>
+  <td class=3Dxl716603 align=3Dright>120,000 </td>
+  <td class=3Dxl716603 align=3Dright>200,000 </td>
+  <td class=3Dxl716603 align=3Dright>37,000 </td>
+  <td class=3Dxl716603 align=3Dright>15,000 </td>
+  <td class=3Dxl716603 align=3Dright>215,000 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>魔法的迷途魔方 3=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,346<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>252,000 </td>
+  <td class=3Dxl716603 align=3Dright>101,500 </td>
+  <td class=3Dxl716603 align=3Dright>194,286 </td>
+  <td class=3Dxl716603 align=3Dright>36,000 </td>
+  <td class=3Dxl716603 align=3Dright>14,500 </td>
+  <td class=3Dxl716603 align=3Dright>208,786 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>魔法的迷途魔方 2=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,129<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>248,500 </td>
+  <td class=3Dxl716603 align=3Dright>98,000 </td>
+  <td class=3Dxl716603 align=3Dright>191,429 </td>
+  <td class=3Dxl716603 align=3Dright>35,500 </td>
+  <td class=3Dxl716603 align=3Dright>14,000 </td>
+  <td class=3Dxl716603 align=3Dright>205,429 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>魔法的迷途魔方 1=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>7</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>898</t=
+d>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>245,000 </td>
+  <td class=3Dxl716603 align=3Dright>94,500 </td>
+  <td class=3Dxl716603 align=3Dright>190,000 </td>
+  <td class=3Dxl716603 align=3Dright>35,000 </td>
+  <td class=3Dxl716603 align=3Dright>13,500 </td>
+  <td class=3Dxl716603 align=3Dright>203,500 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>沈默的廢鐵掩埋場=
+ 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,430<=
+/td>
+  <td class=3Dxl716603 align=3Dright>770,350 </td>
+  <td class=3Dxl716603 align=3Dright>160,490 </td>
+  <td class=3Dxl716603 align=3Dright>70,760 </td>
+  <td class=3Dxl716603 align=3Dright>154,070 </td>
+  <td class=3Dxl716603 align=3Dright>32,098 </td>
+  <td class=3Dxl716603 align=3Dright>14,152 </td>
+  <td class=3Dxl716603 align=3Dright>168,222 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>沈默的廢鐵掩埋場=
+ 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>850</t=
+d>
+  <td class=3Dxl716603 align=3Dright>770,350 </td>
+  <td class=3Dxl716603 align=3Dright>160,490 </td>
+  <td class=3Dxl716603 align=3Dright>70,760 </td>
+  <td class=3Dxl716603 align=3Dright>154,070 </td>
+  <td class=3Dxl716603 align=3Dright>32,098 </td>
+  <td class=3Dxl716603 align=3Dright>14,152 </td>
+  <td class=3Dxl716603 align=3Dright>168,222 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>沈默的廢鐵掩埋場=
+ 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,320<=
+/td>
+  <td class=3Dxl716603 align=3Dright>641,960 </td>
+  <td class=3Dxl716603 align=3Dright>133,740 </td>
+  <td class=3Dxl716603 align=3Dright>61,530 </td>
+  <td class=3Dxl716603 align=3Dright>128,392 </td>
+  <td class=3Dxl716603 align=3Dright>26,748 </td>
+  <td class=3Dxl716603 align=3Dright>12,306 </td>
+  <td class=3Dxl716603 align=3Dright>140,698 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>沈默的廢鐵掩埋場=
+ 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,270<=
+/td>
+  <td class=3Dxl716603 align=3Dright>641,960 </td>
+  <td class=3Dxl716603 align=3Dright>133,740 </td>
+  <td class=3Dxl716603 align=3Dright>61,530 </td>
+  <td class=3Dxl716603 align=3Dright>128,392 </td>
+  <td class=3Dxl716603 align=3Dright>26,748 </td>
+  <td class=3Dxl716603 align=3Dright>12,306 </td>
+  <td class=3Dxl716603 align=3Dright>140,698 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>沈默的廢鐵掩埋場=
+ 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>700</t=
+d>
+  <td class=3Dxl716603 align=3Dright>534,970 </td>
+  <td class=3Dxl716603 align=3Dright>111,450 </td>
+  <td class=3Dxl716603 align=3Dright>53,510 </td>
+  <td class=3Dxl716603 align=3Dright>106,994 </td>
+  <td class=3Dxl716603 align=3Dright>22,290 </td>
+  <td class=3Dxl716603 align=3Dright>10,702 </td>
+  <td class=3Dxl716603 align=3Dright>117,696 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>沈默的廢鐵掩埋場=
+ 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>980</t=
+d>
+  <td class=3Dxl716603 align=3Dright>534,970 </td>
+  <td class=3Dxl716603 align=3Dright>111,450 </td>
+  <td class=3Dxl716603 align=3Dright>53,510 </td>
+  <td class=3Dxl716603 align=3Dright>106,994 </td>
+  <td class=3Dxl716603 align=3Dright>22,290 </td>
+  <td class=3Dxl716603 align=3Dright>10,702 </td>
+  <td class=3Dxl716603 align=3Dright>117,696 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>未知礦山 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>356,640 </td>
+  <td class=3Dxl716603 align=3Dright>74,300 </td>
+  <td class=3Dxl716603 align=3Dright>37,220 </td>
+  <td class=3Dxl716603 align=3Dright>89,160 </td>
+  <td class=3Dxl716603 align=3Dright>18,575 </td>
+  <td class=3Dxl716603 align=3Dright>9,305 </td>
+  <td class=3Dxl716603 align=3Dright>98,465 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>未知礦山 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>297,200 </td>
+  <td class=3Dxl716603 align=3Dright>61,920 </td>
+  <td class=3Dxl716603 align=3Dright>32,360 </td>
+  <td class=3Dxl716603 align=3Dright>74,300 </td>
+  <td class=3Dxl716603 align=3Dright>15,480 </td>
+  <td class=3Dxl716603 align=3Dright>8,090 </td>
+  <td class=3Dxl716603 align=3Dright>82,390 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>未知礦山 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,240<=
+/td>
+  <td class=3Dxl716603 align=3Dright>247,670 </td>
+  <td class=3Dxl716603 align=3Dright>51,600 </td>
+  <td class=3Dxl716603 align=3Dright>28,140 </td>
+  <td class=3Dxl716603 align=3Dright>61,918 </td>
+  <td class=3Dxl716603 align=3Dright>12,900 </td>
+  <td class=3Dxl716603 align=3Dright>7,035 </td>
+  <td class=3Dxl716603 align=3Dright>68,953 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>未知礦山 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>720</t=
+d>
+  <td class=3Dxl716603 align=3Dright>154,790 </td>
+  <td class=3Dxl716603 align=3Dright>32,250 </td>
+  <td class=3Dxl716603 align=3Dright>18,350 </td>
+  <td class=3Dxl716603 align=3Dright>51,597 </td>
+  <td class=3Dxl716603 align=3Dright>10,750 </td>
+  <td class=3Dxl716603 align=3Dright>6,117 </td>
+  <td class=3Dxl716603 align=3Dright>57,713 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>未知礦山 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,110<=
+/td>
+  <td class=3Dxl716603 align=3Dright>128,990 </td>
+  <td class=3Dxl716603 align=3Dright>26,870 </td>
+  <td class=3Dxl716603 align=3Dright>15,960 </td>
+  <td class=3Dxl716603 align=3Dright>42,997 </td>
+  <td class=3Dxl716603 align=3Dright>8,957 </td>
+  <td class=3Dxl716603 align=3Dright>5,320 </td>
+  <td class=3Dxl716603 align=3Dright>48,317 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>未知礦山 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>590</t=
+d>
+  <td class=3Dxl716603 align=3Dright>107,500 </td>
+  <td class=3Dxl716603 align=3Dright>22,400 </td>
+  <td class=3Dxl716603 align=3Dright>13,880 </td>
+  <td class=3Dxl716603 align=3Dright>35,833 </td>
+  <td class=3Dxl716603 align=3Dright>7,467 </td>
+  <td class=3Dxl716603 align=3Dright>4,627 </td>
+  <td class=3Dxl716603 align=3Dright>40,460 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>逆時發條 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>5</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>217,500 </td>
+  <td class=3Dxl716603 align=3Dright>45,500 </td>
+  <td class=3Dxl716603 align=3Dright>19,500 </td>
+  <td class=3Dxl716603 align=3Dright>43,500 </td>
+  <td class=3Dxl716603 align=3Dright>9,100 </td>
+  <td class=3Dxl716603 align=3Dright>3,900 </td>
+  <td class=3Dxl716603 align=3Dright>47,400 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>逆時發條 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>4</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>160,500 </td>
+  <td class=3Dxl716603 align=3Dright>33,500 </td>
+  <td class=3Dxl716603 align=3Dright>14,700 </td>
+  <td class=3Dxl716603 align=3Dright>40,125 </td>
+  <td class=3Dxl716603 align=3Dright>8,375 </td>
+  <td class=3Dxl716603 align=3Dright>3,675 </td>
+  <td class=3Dxl716603 align=3Dright>43,800 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>逆時發條 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>109,500 </td>
+  <td class=3Dxl716603 align=3Dright>22,500 </td>
+  <td class=3Dxl716603 align=3Dright>10,400 </td>
+  <td class=3Dxl716603 align=3Dright>36,500 </td>
+  <td class=3Dxl716603 align=3Dright>7,500 </td>
+  <td class=3Dxl716603 align=3Dright>3,467 </td>
+  <td class=3Dxl716603 align=3Dright>39,967 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>逆時發條 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,240<=
+/td>
+  <td class=3Dxl716603 align=3Dright>64,500 </td>
+  <td class=3Dxl716603 align=3Dright>13,500 </td>
+  <td class=3Dxl716603 align=3Dright>6,500 </td>
+  <td class=3Dxl716603 align=3Dright>32,250 </td>
+  <td class=3Dxl716603 align=3Dright>6,750 </td>
+  <td class=3Dxl716603 align=3Dright>3,250 </td>
+  <td class=3Dxl716603 align=3Dright>35,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>逆時發條 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>960</t=
+d>
+  <td class=3Dxl716603 align=3Dright>58,500 </td>
+  <td class=3Dxl716603 align=3Dright>12,000 </td>
+  <td class=3Dxl716603 align=3Dright>6,100 </td>
+  <td class=3Dxl716603 align=3Dright>29,250 </td>
+  <td class=3Dxl716603 align=3Dright>6,000 </td>
+  <td class=3Dxl716603 align=3Dright>3,050 </td>
+  <td class=3Dxl716603 align=3Dright>32,300 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>逆時發條 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>880</t=
+d>
+  <td class=3Dxl716603 align=3Dright>51,000 </td>
+  <td class=3Dxl716603 align=3Dright>10,500 </td>
+  <td class=3Dxl716603 align=3Dright>5,700 </td>
+  <td class=3Dxl716603 align=3Dright>25,500 </td>
+  <td class=3Dxl716603 align=3Dright>5,250 </td>
+  <td class=3Dxl716603 align=3Dright>2,850 </td>
+  <td class=3Dxl716603 align=3Dright>28,350 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>不滅的骸石 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>10</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,210<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>430,000 </td>
+  <td class=3Dxl716603 align=3Dright>190,000 </td>
+  <td class=3Dxl716603 align=3Dright>240,000 </td>
+  <td class=3Dxl716603 align=3Dright>43,000 </td>
+  <td class=3Dxl716603 align=3Dright>19,000 </td>
+  <td class=3Dxl716603 align=3Dright>259,000 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>不滅的骸石 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>10</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,240<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>425,000 </td>
+  <td class=3Dxl716603 align=3Dright>185,000 </td>
+  <td class=3Dxl716603 align=3Dright>230,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,500 </td>
+  <td class=3Dxl716603 align=3Dright>18,500 </td>
+  <td class=3Dxl716603 align=3Dright>248,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>不滅的骸石 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>10</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>850</t=
+d>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>420,000 </td>
+  <td class=3Dxl716603 align=3Dright>180,000 </td>
+  <td class=3Dxl716603 align=3Dright>220,000 </td>
+  <td class=3Dxl716603 align=3Dright>42,000 </td>
+  <td class=3Dxl716603 align=3Dright>18,000 </td>
+  <td class=3Dxl716603 align=3Dright>238,000 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>不滅的骸石 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>9</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,195<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>369,000 </td>
+  <td class=3Dxl716603 align=3Dright>157,500 </td>
+  <td class=3Dxl716603 align=3Dright>214,444 </td>
+  <td class=3Dxl716603 align=3Dright>41,000 </td>
+  <td class=3Dxl716603 align=3Dright>17,500 </td>
+  <td class=3Dxl716603 align=3Dright>231,944 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>不滅的骸石 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>9</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>890</t=
+d>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>364,500 </td>
+  <td class=3Dxl716603 align=3Dright>153,000 </td>
+  <td class=3Dxl716603 align=3Dright>212,222 </td>
+  <td class=3Dxl716603 align=3Dright>40,500 </td>
+  <td class=3Dxl716603 align=3Dright>17,000 </td>
+  <td class=3Dxl716603 align=3Dright>229,222 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl726603 style=3D'height:16.5pt'>不滅的骸石 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>9</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,110<=
+/td>
+  <td class=3Dxl716603 align=3Dcenter>########</td>
+  <td class=3Dxl716603 align=3Dright>360,000 </td>
+  <td class=3Dxl716603 align=3Dright>148,500 </td>
+  <td class=3Dxl716603 align=3Dright>210,000 </td>
+  <td class=3Dxl716603 align=3Dright>40,000 </td>
+  <td class=3Dxl716603 align=3Dright>16,500 </td>
+  <td class=3Dxl716603 align=3Dright>226,500 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>黃昏之冰神殿 6</=
+td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>148,000 </td>
+  <td class=3Dxl716603 align=3Dright>27,510 </td>
+  <td class=3Dxl716603 align=3Dright>14,640 </td>
+  <td class=3Dxl716603 align=3Dright>49,333 </td>
+  <td class=3Dxl716603 align=3Dright>9,170 </td>
+  <td class=3Dxl716603 align=3Dright>4,880 </td>
+  <td class=3Dxl716603 align=3Dright>54,213 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>黃昏之冰神殿 5</=
+td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,240<=
+/td>
+  <td class=3Dxl716603 align=3Dright>131,640 </td>
+  <td class=3Dxl716603 align=3Dright>24,480 </td>
+  <td class=3Dxl716603 align=3Dright>13,820 </td>
+  <td class=3Dxl716603 align=3Dright>43,880 </td>
+  <td class=3Dxl716603 align=3Dright>8,160 </td>
+  <td class=3Dxl716603 align=3Dright>4,607 </td>
+  <td class=3Dxl716603 align=3Dright>48,487 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>黃昏之冰神殿 4</=
+td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>720</t=
+d>
+  <td class=3Dxl716603 align=3Dright>76,910 </td>
+  <td class=3Dxl716603 align=3Dright>16,080 </td>
+  <td class=3Dxl716603 align=3Dright>8,660 </td>
+  <td class=3Dxl716603 align=3Dright>38,455 </td>
+  <td class=3Dxl716603 align=3Dright>8,040 </td>
+  <td class=3Dxl716603 align=3Dright>4,330 </td>
+  <td class=3Dxl716603 align=3Dright>42,785 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>黃昏之冰神殿 3</=
+td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,080<=
+/td>
+  <td class=3Dxl716603 align=3Dright>54,120 </td>
+  <td class=3Dxl716603 align=3Dright>11,370 </td>
+  <td class=3Dxl716603 align=3Dright>7,040 </td>
+  <td class=3Dxl716603 align=3Dright>27,060 </td>
+  <td class=3Dxl716603 align=3Dright>5,685 </td>
+  <td class=3Dxl716603 align=3Dright>3,520 </td>
+  <td class=3Dxl716603 align=3Dright>30,580 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>黃昏之冰神殿 2</=
+td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>590</t=
+d>
+  <td class=3Dxl716603 align=3Dright>23,980 </td>
+  <td class=3Dxl716603 align=3Dright>7,580 </td>
+  <td class=3Dxl716603 align=3Dright>3,060 </td>
+  <td class=3Dxl716603 align=3Dright>23,980 </td>
+  <td class=3Dxl716603 align=3Dright>7,580 </td>
+  <td class=3Dxl716603 align=3Dright>3,060 </td>
+  <td class=3Dxl716603 align=3Dright>27,040 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>黃昏之冰神殿 1</=
+td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,080<=
+/td>
+  <td class=3Dxl716603 align=3Dright>11,890 </td>
+  <td class=3Dxl716603 align=3Dright>3,800 </td>
+  <td class=3Dxl716603 align=3Dright>2,600 </td>
+  <td class=3Dxl716603 align=3Dright>11,890 </td>
+  <td class=3Dxl716603 align=3Dright>3,800 </td>
+  <td class=3Dxl716603 align=3Dright>2,600 </td>
+  <td class=3Dxl716603 align=3Dright>14,490 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>無盡的黃金沙漠 6=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>3</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>82,360 </td>
+  <td class=3Dxl716603 align=3Dright>11,480 </td>
+  <td class=3Dxl716603 align=3Dright>6,700 </td>
+  <td class=3Dxl716603 align=3Dright>27,453 </td>
+  <td class=3Dxl716603 align=3Dright>3,827 </td>
+  <td class=3Dxl716603 align=3Dright>2,233 </td>
+  <td class=3Dxl716603 align=3Dright>29,687 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>無盡的黃金沙漠 5=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>960</t=
+d>
+  <td class=3Dxl716603 align=3Dright>47,630 </td>
+  <td class=3Dxl716603 align=3Dright>9,980 </td>
+  <td class=3Dxl716603 align=3Dright>4,190 </td>
+  <td class=3Dxl716603 align=3Dright>23,815 </td>
+  <td class=3Dxl716603 align=3Dright>4,990 </td>
+  <td class=3Dxl716603 align=3Dright>2,095 </td>
+  <td class=3Dxl716603 align=3Dright>25,910 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>無盡的黃金沙漠 4=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,080<=
+/td>
+  <td class=3Dxl716603 align=3Dright>36,080 </td>
+  <td class=3Dxl716603 align=3Dright>7,580 </td>
+  <td class=3Dxl716603 align=3Dright>3,520 </td>
+  <td class=3Dxl716603 align=3Dright>18,040 </td>
+  <td class=3Dxl716603 align=3Dright>3,790 </td>
+  <td class=3Dxl716603 align=3Dright>1,760 </td>
+  <td class=3Dxl716603 align=3Dright>19,800 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>無盡的黃金沙漠 3=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,080<=
+/td>
+  <td class=3Dxl716603 align=3Dright>30,030 </td>
+  <td class=3Dxl716603 align=3Dright>6,320 </td>
+  <td class=3Dxl716603 align=3Dright>3,290 </td>
+  <td class=3Dxl716603 align=3Dright>15,015 </td>
+  <td class=3Dxl716603 align=3Dright>3,160 </td>
+  <td class=3Dxl716603 align=3Dright>1,645 </td>
+  <td class=3Dxl716603 align=3Dright>16,660 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>無盡的黃金沙漠 2=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,240<=
+/td>
+  <td class=3Dxl716603 align=3Dright>11,990 </td>
+  <td class=3Dxl716603 align=3Dright>5,060 </td>
+  <td class=3Dxl716603 align=3Dright>1,530 </td>
+  <td class=3Dxl716603 align=3Dright>11,990 </td>
+  <td class=3Dxl716603 align=3Dright>5,060 </td>
+  <td class=3Dxl716603 align=3Dright>1,530 </td>
+  <td class=3Dxl716603 align=3Dright>13,520 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>無盡的黃金沙漠 1=
+</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,080<=
+/td>
+  <td class=3Dxl716603 align=3Dright>8,970 </td>
+  <td class=3Dxl716603 align=3Dright>3,800 </td>
+  <td class=3Dxl716603 align=3Dright>1,410 </td>
+  <td class=3Dxl716603 align=3Dright>8,970 </td>
+  <td class=3Dxl716603 align=3Dright>3,800 </td>
+  <td class=3Dxl716603 align=3Dright>1,410 </td>
+  <td class=3Dxl716603 align=3Dright>10,380 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甦醒的魔眼 6</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>59,720 </td>
+  <td class=3Dxl716603 align=3Dright>12,440 </td>
+  <td class=3Dxl716603 align=3Dright>8,050 </td>
+  <td class=3Dxl716603 align=3Dright>29,860 </td>
+  <td class=3Dxl716603 align=3Dright>6,220 </td>
+  <td class=3Dxl716603 align=3Dright>4,025 </td>
+  <td class=3Dxl716603 align=3Dright>33,885 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甦醒的魔眼 5</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>49,770 </td>
+  <td class=3Dxl716603 align=3Dright>10,370 </td>
+  <td class=3Dxl716603 align=3Dright>7,000 </td>
+  <td class=3Dxl716603 align=3Dright>24,885 </td>
+  <td class=3Dxl716603 align=3Dright>5,185 </td>
+  <td class=3Dxl716603 align=3Dright>3,500 </td>
+  <td class=3Dxl716603 align=3Dright>28,385 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甦醒的魔眼 4</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>2</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,480<=
+/td>
+  <td class=3Dxl716603 align=3Dright>41,470 </td>
+  <td class=3Dxl716603 align=3Dright>8,640 </td>
+  <td class=3Dxl716603 align=3Dright>6,080 </td>
+  <td class=3Dxl716603 align=3Dright>20,735 </td>
+  <td class=3Dxl716603 align=3Dright>4,320 </td>
+  <td class=3Dxl716603 align=3Dright>3,040 </td>
+  <td class=3Dxl716603 align=3Dright>23,775 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甦醒的魔眼 3</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl706603 align=3Dright width=3D78 style=3D'width:59pt'>1,240<=
+/td>
+  <td class=3Dxl716603 align=3Dright>17,280 </td>
+  <td class=3Dxl716603 align=3Dright>3,600 </td>
+  <td class=3Dxl716603 align=3Dright>2,650 </td>
+  <td class=3Dxl716603 align=3Dright>17,280 </td>
+  <td class=3Dxl716603 align=3Dright>3,600 </td>
+  <td class=3Dxl716603 align=3Dright>2,650 </td>
+  <td class=3Dxl716603 align=3Dright>19,930 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甦醒的魔眼 2</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>960</t=
+d>
+  <td class=3Dxl716603 align=3Dright>14,400 </td>
+  <td class=3Dxl716603 align=3Dright>3,000 </td>
+  <td class=3Dxl716603 align=3Dright>2,300 </td>
+  <td class=3Dxl716603 align=3Dright>14,400 </td>
+  <td class=3Dxl716603 align=3Dright>3,000 </td>
+  <td class=3Dxl716603 align=3Dright>2,300 </td>
+  <td class=3Dxl716603 align=3Dright>16,700 </td>
+  <td class=3Dxl766603>　</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl686603 style=3D'height:16.5pt'>甦醒的魔眼 1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>1</td>
+  <td class=3Dxl696603 align=3Dright width=3D78 style=3D'width:59pt'>880</t=
+d>
+  <td class=3Dxl716603 align=3Dright>12,000 </td>
+  <td class=3Dxl716603 align=3Dright>2,500 </td>
+  <td class=3Dxl716603 align=3Dright>2,000 </td>
+  <td class=3Dxl716603 align=3Dright>12,000 </td>
+  <td class=3Dxl716603 align=3Dright>2,500 </td>
+  <td class=3Dxl716603 align=3Dright>2,000 </td>
+  <td class=3Dxl716603 align=3Dright>14,000 </td>
+  <td class=3Dxl766603>＊短關卡＊</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D178 style=3D'width:134pt'></td>
+  <td width=3D78 style=3D'width:59pt'></td>
+  <td width=3D78 style=3D'width:59pt'></td>
+  <td width=3D88 style=3D'width:66pt'></td>
+  <td width=3D89 style=3D'width:67pt'></td>
+  <td width=3D84 style=3D'width:63pt'></td>
+  <td width=3D124 style=3D'width:93pt'></td>
+  <td width=3D119 style=3D'width:89pt'></td>
+  <td width=3D109 style=3D'width:82pt'></td>
+  <td width=3D125 style=3D'width:94pt'></td>
+  <td width=3D93 style=3D'width:70pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
